@@ -1,0 +1,31 @@
+{
+    "status": {
+        "nationality": "한국",
+        "look": {
+            "hair_color": "검정",
+            "beard": {
+                "beard_color": "검정",
+                "beard_length": "짧음"
+            },
+            "body": "뚱뚱함"
+        },
+        "clothes": {
+            "hat": null,
+            "outer": "카키색 야상",
+            "top": "검정색 반팔티",
+            "bottom": "베이지색 바지",
+            "shoes": "크록스",
+            "gloves": null
+        }
+    },
+    "items": {
+        "bag": [
+            "담배",
+            "샤프",
+            "폭탄",
+            "김치찌개"
+        ],
+        "pets": "고양이",
+        "car": null
+    }
+}

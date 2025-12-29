@@ -1,0 +1,26 @@
+{
+    "status": {
+        "nationality": "튀르키예",
+        "look" : {
+            "hair_color": "흰색",
+            "beard": {
+                "beard_color" : "흰색",
+                "beard_length" : "김"
+            },
+            "body": "뚱뚱함"
+        },
+        "clothes" : {
+            "hat": "빨간색 털모자",
+            "outer" : "빨간색 털자켓",
+            "top": "검정색 긴팔티",
+            "bottom": "빨간색 털바지",
+            "shoes": "부츠",
+            "gloves" : "빨간색 털장갑"
+        }
+    },
+    "items": {
+        "bag" : ["맥북프로", "에어팟", "애플워치"],
+        "pets" : "루돌프",
+        "car" : "썰매"
+    }
+}
